@@ -1,5 +1,5 @@
-# Learning-regexp
-正規表現調べる
+# Learning Regexp
+正規表現の学習や情報収集のまとめ
 
 
 ## 参考リンク
